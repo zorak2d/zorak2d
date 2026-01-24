@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zorak
+- 👋 Hello World, I’m Zorak
 - 📈 Trader
 - 🖥️ Pine Script developer.
 - 🖥️ Full Stack dev.
