@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zorak
 - 📈 Trader
 - 🖥️ Pine Script developer.
-- 🖥️ Flutter dev.
+- 🖥️ Full Stack dev.
 
 
 // Many of the pine script repositories are private because they contain secret trading strategies, if you want access to them do not hesitate to write me expressing the reason
