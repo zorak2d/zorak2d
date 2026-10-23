@@ -1,10 +1,6 @@
 - 👋 Hello World, I’m Zorak
-- 📈 Trader
-- 🖥️ Pine Script developer.
-- 🖥️ Full Stack dev.
 
-
-// Many of the pine script repositories are private because they contain secret trading strategies, if you want access to them do not hesitate to write me expressing the reason
+// Many of the repositories are private, if you want access to them do not hesitate to write me expressing the reason
 
 <!---
 zorakDev/zorakDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
